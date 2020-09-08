@@ -21,7 +21,7 @@ function setup(){
 }
 
 function draw(){
-    background("gray");
+    background("white");
     Engine.update(engine);
 
     var maxDrops = 5;
